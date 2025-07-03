@@ -1,2 +1,4 @@
-WebSockets\controller\WebController.class
+WebSockets\endpoints\TimerEndpoint.class
 WebSockets\WSStartApp.class
+WebSockets\components\TimerMessageBroker.class
+WebSockets\configuration\WSConfigurator.class

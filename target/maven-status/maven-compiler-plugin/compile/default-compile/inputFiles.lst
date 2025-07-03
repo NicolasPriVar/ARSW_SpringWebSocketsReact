@@ -1,2 +1,4 @@
-D:\Universidad\Intersemestral 2025-i\ARSW\ARSW_WebSockets\src\main\java\WebSockets\controller\WebController.java
+D:\Universidad\Intersemestral 2025-i\ARSW\ARSW_WebSockets\src\main\java\WebSockets\configuration\WSConfigurator.java
+D:\Universidad\Intersemestral 2025-i\ARSW\ARSW_WebSockets\src\main\java\WebSockets\components\TimerMessageBroker.java
+D:\Universidad\Intersemestral 2025-i\ARSW\ARSW_WebSockets\src\main\java\WebSockets\endpoints\TimerEndpoint.java
 D:\Universidad\Intersemestral 2025-i\ARSW\ARSW_WebSockets\src\main\java\WebSockets\WSStartApp.java
