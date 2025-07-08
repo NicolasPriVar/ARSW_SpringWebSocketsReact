@@ -60,6 +60,10 @@ WebSocket es un protocolo de comunicación que proporciona un canal bidirecciona
 
 ---
 
+### Diagrama de clases
+![{D52B6A5C-F563-4751-AA6A-5EDD05CA42B0}](https://github.com/user-attachments/assets/e4b5c061-c2a2-4a3e-834d-2ebf48a8c02f)
+
+---
 
 ### ⚛️ ¿Qué es React?
 
